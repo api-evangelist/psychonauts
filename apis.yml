@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://psychonauts-api.netlify.app/
 common:
+  - type: TrustCenter
+    url: security/psychonauts-trust-center.yml
+  - type: DomainSecurity
+    url: security/psychonauts-domain-security.yml
   - type: Website
     url: https://psychonauts-api.netlify.app/
   - type: PublicAPIsListing
