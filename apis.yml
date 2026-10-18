@@ -40,7 +40,8 @@ apis:
   - name: Psychonauts
     description: "Psychonauts World Characters Information and PSI Powers"
     humanURL: https://psychonauts-api.netlify.app/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
